@@ -1,5 +1,5 @@
 # SolutionRenamer
-Fast rename solution,using .net core 2.0
+Fast rename folders and subfolders,using .net core 2.0
 
 doc
 ==
